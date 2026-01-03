@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 document.getElementById("btn").addEventListener("click", function() {
   var height_val = document.getElementById('height').value; // in cm
   var weight_val = document.getElementById('weight').value; // in kg

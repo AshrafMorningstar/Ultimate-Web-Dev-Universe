@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 const sentences = [
 	"After all, you're only an immortal until someone manages to kill you. After that, you were just long-lived. As long as poverty, injustice and gross inequality persist in our world, none of us can truly rest.",
 

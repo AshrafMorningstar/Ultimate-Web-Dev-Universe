@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 @ @ - 0, 0 + 1, 72 @ @
 const months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 

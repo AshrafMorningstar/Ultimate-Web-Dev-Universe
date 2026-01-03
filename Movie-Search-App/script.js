@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 const API_KEY = "api_key=1cf50e6248dc270629e802686245c2c8";
 const BASE_URL = "https://api.themoviedb.org/3";
 const API_URL = BASE_URL + "/discover/movie?sort_by=popularity.desc&" + API_KEY;
